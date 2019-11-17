@@ -1,3 +1,6 @@
+
+![weather](imgs/weatherpic.jpg)
+
 # 🌦 Project: Weather API
 
 ### Goal: Enable your user to enter a city + country and return the temperature in Fahrenheit
@@ -10,4 +13,3 @@ For this API, all you need to do is enter a city & country code (such as US) and
 
 
 
-![alt text](imgs/weatherpic.jpg)
