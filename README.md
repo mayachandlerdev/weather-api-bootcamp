@@ -8,6 +8,6 @@ Hello :)
 
 For this API, all you need to do is enter a city & country code (such as US) and you will recieve the temperature for that location! 
 
-![alt text](imgs/weatherpic.jpg)
+(imgs/weatherpic.jpg)
 
 
