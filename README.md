@@ -1,5 +1,5 @@
 
-![weather](img/weatherpic.jpg)
+![weather](imgs/weatherpic.jpg)
 
 # 🌦 Project: Weather API
 
